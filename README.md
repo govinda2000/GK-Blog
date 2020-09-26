@@ -1,2 +1,2 @@
 # GK-Blog
-Django blog 
+Blog created using python-django
