@@ -1,0 +1,2 @@
+# GK-Blog
+Django blog 
